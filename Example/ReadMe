@@ -1,1 +1,7 @@
 这是GPT生成的一些demo代码
+
+DragER-2.py 绘制矩形和椭圆
+PyQtGraphicsLayerManageDemo.py 图层管理
+PyQtDrawLineItems.py 绘制竖直和横向的Items
+PyQtDrawArrowItem.py 绘制箭头
+SelectAndEditGraphicIRecttemByPyQt.py 选择和编辑RectItem的属性 
